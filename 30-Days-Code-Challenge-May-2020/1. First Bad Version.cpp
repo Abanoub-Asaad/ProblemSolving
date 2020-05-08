@@ -5,6 +5,27 @@
 
 class Solution {
 public:
+
+  int firstBadVersion(int n) {
+    int left = 1;
+    int right = n;
+    while (left < right) {
+        int mid = left + (right - left) / 2;
+        if (isBadVersion(mid)) {
+            right = mid;
+        } else {
+            left = mid + 1;
+        }
+    }
+    return left;
+}
+
+};
+
+//=================: Another Solution :=========================
+
+class Solution {
+public:
     long long firstBadVersion(int n) {
 
         long long l=1, r=n, mid=(l+r)/2 ;
