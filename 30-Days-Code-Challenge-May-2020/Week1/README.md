@@ -1,5 +1,5 @@
 # Week 1
-Quote is an android app that displays quotes and you can share it to any another app.
+Problems statements :
 
 1. First Bad Version, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)
 2. Jewels and Stones, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/)
