@@ -6,4 +6,9 @@ Problems statements :
 3. Find the Town Judge, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)
 4. Flood Fill, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)
 5. Single Element in a Sorted Array, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)
+<<<<<<< HEAD
+6. Remove K Digits, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3327/)
+7. Implement Trie (Prefix Tree), click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)
+=======
 6. Remove K Digits, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3328/)
+>>>>>>> a3d671c8630f92d00c9204d121ad285d863927a3
