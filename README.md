@@ -4,4 +4,4 @@ This repo contains all the solutions to 30-Days-Code-Challenge-May-2020 and othe
 Created by
 | :----------------------------------------------------------: |
 | **[Abanoub Asaad](https://www.linkedin.com/in/abanoub-asaad-6a4a14176/)**  |
-| :----------------------------------------------------------: |
+
