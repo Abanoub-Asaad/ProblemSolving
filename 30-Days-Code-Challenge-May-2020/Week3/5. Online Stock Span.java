@@ -9,24 +9,19 @@ class StockSpanner {
     }
     
     public int next(int price) {
-        if(cnt==0)
-        {
+        if(cnt==0){
              ++cnt; arr.add(price); return 1;
         }
            
-        else
-        {
-            if(price>=arr.get(cnt-1))
-            {
-                ++cnt; arr.add(price); return search(price);     
-            }
-                
-            else
-            {
+        else{
+            if(price>=arr.get(cnt-1)){
+                ++cnt; arr.add(price); return search(price);  
+            }else{
                 ++cnt; arr.add(price); return 1;
             }
-               
+           
         }
+
     }
     
     public int search(int num){
@@ -34,10 +29,9 @@ class StockSpanner {
         int c=0;
         
         for(int i=arr.size()-1; i>=0; i--){
-            if(arr.get(i)<=num)
-                ++c;
-            else 
-                break;
+            
+            if(arr.get(i)<=num) ++c;     
+            else  break;     
         }
         
         return c;
