@@ -7,3 +7,4 @@ Problems statements :
 4. Permutation in String, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3333/)
 5. Online Stock Span, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3334/)
 6. Kth Smallest Element in a BST, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3335/)
+7. Count Square Submatrices with All Ones, click [HERE](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/536/week-3-may-15th-may-21st/3336/)
