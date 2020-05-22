@@ -40,12 +40,6 @@ public:
 class Solution {
 public:
     
-    bool sortinrev(const pair<char,int> &a,  
-               const pair<char,int> &b) 
-    { 
-           return (a.first > b.first); 
-    } 
-    
     string frequencySort( string s ) {
 	unordered_map<char, int> m;
 	for( auto c : s )
