@@ -1,12 +1,6 @@
 class Solution {
 public:
     
-    bool sortinrev(const pair<char,int> &a,  
-               const pair<char,int> &b) 
-    { 
-           return (a.first > b.first); 
-    } 
-    
     string frequencySort(string s) {
         
         string output="";
