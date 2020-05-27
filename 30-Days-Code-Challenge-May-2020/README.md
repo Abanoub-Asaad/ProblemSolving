@@ -32,4 +32,5 @@
 |24| [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3339/)|Tree|[Java](https://github.com/Abanoub-Asaad/LeetCode/blob/master/30-Days-Code-Challenge-May-2020/Week4/3.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.java)
 |25| [Uncrossed Lines](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3340/)☠|Dynamic Programming|[C++](https://github.com/Abanoub-Asaad/LeetCode/blob/master/30-Days-Code-Challenge-May-2020/Week4/4.%20Uncrossed%20Lines.cpp)
 |26| [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/)|Hash Table (Map)|[C++](https://github.com/Abanoub-Asaad/LeetCode/blob/master/30-Days-Code-Challenge-May-2020/Week4/5.%20Contiguous%20Array.cpp)
+|27| [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/)|Bipartite Graph|[C++]()
 #### LeetCode profile [Abanoub-Asaad](https://leetcode.com/abanoub-asaad/)
