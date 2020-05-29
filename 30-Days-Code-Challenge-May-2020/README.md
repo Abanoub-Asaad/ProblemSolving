@@ -33,5 +33,5 @@
 |26| [Contiguous Array](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3341/)|Hash Table (Map)|[C++](https://github.com/Abanoub-Asaad/LeetCode/blob/master/30-Days-Code-Challenge-May-2020/Week4/5.%20Contiguous%20Array.cpp)
 |27| [Possible Bipartition](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3342/)☠|Bipartite Graph and DFS|[C++](https://github.com/Abanoub-Asaad/LeetCode/blob/master/30-Days-Code-Challenge-May-2020/Week4/6.%20Possible%20Bipartition.cpp)
 |28| [Counting Bits](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/537/week-4-may-22nd-may-28th/3343/)|Bit Manipulation and Math|[C++](https://github.com/Abanoub-Asaad/LeetCode/blob/master/30-Days-Code-Challenge-May-2020/Week4/7.%20Counting%20Bits.cpp)
-|29| [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)|Directed Graph and DFS|[C++]()
+|29| [Course Schedule](https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/538/week-5-may-29th-may-31st/3344/)☠|Directed Graph and DFS|[C++](https://github.com/Abanoub-Asaad/LeetCode/blob/master/30-Days-Code-Challenge-May-2020/Week5/Course%20Schedule.cpp)
 #### LeetCode profile [Abanoub-Asaad](https://leetcode.com/abanoub-asaad/)

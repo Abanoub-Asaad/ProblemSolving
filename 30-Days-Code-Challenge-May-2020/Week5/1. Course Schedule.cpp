@@ -1,13 +1,14 @@
 using namespace std;
 class Solution {
 public:
+
+    // Check if there's a cycle in the graph or not.
+    // 0 -> unvisited,  1 -> being visited,  2 -> completely visited.  
+	
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         
         vector<vector<int> > adj(numCourses, vector<int>());
         vector<int> visited(numCourses, 0);
-        
-        // 0 -> unvisited,  1 -> being visited,  2 -> completely visited  
-         
         
         for(int i=0; i<prerequisites.size(); ++i)
         {
