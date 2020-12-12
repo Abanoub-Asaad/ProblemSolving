@@ -20,4 +20,5 @@
 * [Graph Playlist by Mostafa Saad](https://www.youtube.com/watch?v=jzfcfQVBtKA&list=PLPt2dINI2MIb4OXlJ_EEwIDV9WVUpRQ5K) 
 
 ## Great Repositories on GitHub
-* [awesome algorithms by tayllan](https://github.com/tayllan/awesome-algorithms)
+* [The Algorithms [Implementation for all algorithms in 6 programming languages]](https://github.com/TheAlgorithms)
+* [Awesome Algorithms by Tayllan](https://github.com/tayllan/awesome-algorithms)
