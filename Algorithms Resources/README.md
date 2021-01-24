@@ -8,6 +8,9 @@
     * [GeeksforGeeks [explanation and problems with solutions]](https://www.geeksforgeeks.org/dynamic-programming/)
     * [DP - LeetCode Problems](https://leetcode.com/tag/dynamic-programming/)
     * [5 Hours of solving DP problems on Youtube [freecodecamp channel]](https://youtu.be/oBt53YbR9Kk) 
+* Greedy 
+    * [GeeksforGeeks [explanation and problems with solutions]](https://www.geeksforgeeks.org/greedy-algorithms/)
+  
 * Graph 
     * [Graph Tutorials [Hacker Earth]](https://www.hackerearth.com/practice/algorithms/graphs/graph-representation/tutorial/)
     * [GeeksforGeeks [Problems with solutions]](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)

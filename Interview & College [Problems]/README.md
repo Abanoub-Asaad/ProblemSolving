@@ -11,10 +11,10 @@ interview-and-college-problems
 [136. Single Number](https://leetcode.com/problems/single-number/)| Hashing or Bit manipulation | [C++](https://github.com/Abanoub-Asaad/ProblemSolving/blob/master/Interview%20%26%20College%20%5BProblems%5D/Solutions/136.%20Single%20Number.cpp) | Easy | a⊕0=a <br> a⊕a=0 <br> a⊕b⊕a = b
 [1525. Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/)| Hashing | [C++](https://github.com/Abanoub-Asaad/ProblemSolving/blob/master/Interview%20%26%20College%20%5BProblems%5D/Solutions/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.cpp) | Meduim | O(N) Solution <br>  Hash Table complexity is O(1) for insertion, deletion and search
 
-### Follow Up Notes:
+# Follow Up Notes:
 
 #### 347. Top K Frequent Elements 
-* To sort map or unordered_map "hash table" by value:
+* To sort a map or unordered_map "hash table" by value:
 	* First, Put the keys and values of the map in vector of pairs 
 	* Second, Sort the vector by the way:
 ```
@@ -28,4 +28,5 @@ static bool cmp(pair<int, int>& a, pair<int, int>& b)
 	return a.second < b.second; 
 }
 ```
+#
 #### LeetCode profile [Abanoub-Asaad](https://leetcode.com/abanoub-asaad/)
