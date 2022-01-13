@@ -2,7 +2,7 @@
 Number of problems: 38
 
 ### Array and Strings
-- [ ] Bracket Match
+- [x] Bracket Match ✅
 - [ ] Move Zeros To End 
 - [ ] Find The Duplicates
 - [ ] Drone Flight Planner 
