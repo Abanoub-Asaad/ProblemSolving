@@ -3,24 +3,24 @@ Number of problems: 38
 
 ### Array and Strings
 - [ ] Bracket Match
-- [ ] Move Zeros To End 0️⃣
+- [ ] Move Zeros To End 
 - [ ] Find The Duplicates
-- [ ] Drone Flight Planner ✈️
-- [ ] Validate IP Address 🌐📍
+- [ ] Drone Flight Planner 
+- [ ] Validate IP Address 
 - [ ] Array of Array Products
-- [ ] Busiest Time in The Mall ⌚🛍️
-- [ ] Award Budget Cuts 💵✂️
+- [ ] Busiest Time in The Mall
+- [ ] Award Budget Cuts
 - [ ] Array Index & Element Equality
 - [ ] Getting a Different Number
 - [ ] Sentence Reverse
-- [ ] Merging 2 Packages 📦📦
+- [ ] Merging 2 Packages 
 - [ ] Pairs with Specific Difference
 - [ ] Toeplitz Matrix
 - [ ] Word Count Engine
-- [ ] Time Planner ⏰📓
-- [ ] Matrix Spiral Copy 🌀
+- [ ] Time Planner 
+- [ ] Matrix Spiral Copy
 - [ ] Smallest Substring of All Characters
-- [ ] Array Quadruplet 4️⃣
+- [ ] Array Quadruplet 
 
 ### Trees and Graphs
 - [ ] Sales Path
@@ -29,23 +29,23 @@ Number of problems: 38
 - [ ] Shortest Word Edit Path
 
 ### Sorting and Searching
-- [x] Absolute Value Sort
+- [x] Absolute Value Sort ✅
 - [ ] K-Messed Array Sort
 - [ ] Shifted Array Search
-- [ ] Pancake Sort 🥞
+- [ ] Pancake Sort
 
 ### Recursion and DP
-- [ ] Island Count 🏝️
+- [ ] Island Count
 - [ ] Decode Variations
-- [ ] Flatten a Dictionary 📖
-- [ ] Number of Paths 🚗
+- [ ] Flatten a Dictionary
+- [ ] Number of Paths
 - [ ] Sudoku Solver
-- [ ] Deletion Distance ❌📏
+- [ ] Deletion Distance 
 - [ ] Basic Regex Parser
 - [ ] Diff Between Two Strings
 - [ ] H-Tree Construction
 
 ### Math
 - [ ] Root of Number
-- [ ] Decrypt Message ✉️
+- [ ] Decrypt Message 
 
