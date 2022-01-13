@@ -1,5 +1,6 @@
 # Interviews
-Number of problems: 38
+> Number of problems: 38 <br>
+> Problems that have '✅' mean that I solved them :) 
 
 ### Array and Strings
 - [x] Bracket Match ✅
