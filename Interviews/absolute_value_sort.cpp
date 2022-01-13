@@ -7,6 +7,50 @@ input:  arr = [2, -7, -2, -2, 0]
 output: [0, -2, -2, 2, -7]
 */
 
+//----------- Time: O(nlogn), Space: O(n) -----------
+#include <iostream>
+#include <map>
+#include <vector>
+#include <cstdlib>
+#include <algorithm>
+#include <set>
+
+using namespace std;
+
+int main()
+{
+    vector<int> v = { 2, -7, -2, -2, 0 };
+    vector<int> output;
+    map <int, int> negs;
+
+    for (int i = 0; i < v.size(); i++)
+    {
+        int key = abs(v[i]);
+        if (v[i] < 0)
+            negs[key]++;
+
+        v[i] = key;
+    }
+
+    sort(v.begin(), v.end());
+
+    for (int i = 0; i < v.size(); i++)
+    {
+        if (negs[v[i]] > 0)
+            output.push_back(-v[i]), --negs[v[i]];
+        else
+            output.push_back(v[i]);
+    }
+
+    for (auto i : output)
+        cout << i << " ";
+
+    return 0;
+}
+
+
+// Another Solution
+
 #include <iostream>
 #include <unordered_map>
 #include <vector>
