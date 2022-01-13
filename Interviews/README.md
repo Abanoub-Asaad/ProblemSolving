@@ -3,7 +3,7 @@ Number of problems: 38
 
 ### Array and Strings
 - [x] Bracket Match ✅
-- [ ] Move Zeros To End 
+- [x] Move Zeros To End ✅
 - [ ] Find The Duplicates
 - [ ] Drone Flight Planner 
 - [ ] Validate IP Address 
