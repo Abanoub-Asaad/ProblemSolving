@@ -5,7 +5,7 @@
 ### Array and Strings
 - [x] Bracket Match ✅
 - [x] Move Zeros To End ✅
-- [ ] Find The Duplicates
+- [x] Find The Duplicates ✅
 - [ ] Drone Flight Planner 
 - [ ] Validate IP Address 
 - [ ] Array of Array Products
@@ -44,7 +44,7 @@
 - [ ] Deletion Distance 
 - [ ] Basic Regex Parser
 - [ ] Diff Between Two Strings
-- [ ] H-Tree Construction
+- [x] H-Tree Construction ✅
 
 ### Math
 - [ ] Root of Number
